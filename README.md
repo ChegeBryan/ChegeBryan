@@ -1,6 +1,6 @@
 ### Hello, is it me you are looking for? 👋🏾👨🏾‍💻
 
-<img align="left" src="./Lionel-Richie-.jpg" width="200px" height="200px" />
+<img align="left" src="https://raw.githubusercontent.com/ChegeBryan/ChegeBryan/master/Lionel-Richie-.jpg" width="200px" height="200px" />
 
 ##### About
 
@@ -10,10 +10,10 @@ Hi, I'm Chege. I'm currently working on [my-django-auth](https://github.com/Cheg
 Full Stack Engineer · Software Engineer · Web Developer · Junior Software Engineer as Full-time · Contract · Part-time · Internship · Temporary · Remote
 
 ##### 📫 How to reach me:
-<a href="https://twitter.com/chegenbryan"><img src="./Twitter.svg" width="24px" height="24px"/></a>&emsp;<a href="https://www.linkedin.com/in/chegebrian/"><img src="./LI-In-Bug.png" width="24px" height="24px"/></a>
+<a href="https://twitter.com/chegenbryan"><img src="https://raw.githubusercontent.com/ChegeBryan/ChegeBryan/master/Twitter.svg" width="24px" height="24px"/></a>&emsp;<a href="https://www.linkedin.com/in/chegebrian/"><img src="https://raw.githubusercontent.com/ChegeBryan/ChegeBryan/master/LI-In-Bug.png" width="24px" height="24px"/></a>
 
 ##### Certifications
-<a href="https://www.youracclaim.com/badges/b82cca2e-c854-4940-adbc-7f75b6552e2d/public_url"><img src="./azure_badge.png" width="32px"/></a>
+<a href="https://www.youracclaim.com/badges/b82cca2e-c854-4940-adbc-7f75b6552e2d/public_url"><img src="https://raw.githubusercontent.com/ChegeBryan/ChegeBryan/master/azure_badge.png" width="32px"/></a>
 
 
 <!--
