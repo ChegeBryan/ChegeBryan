@@ -18,9 +18,14 @@ Full Stack Engineer · Software Engineer · Web Developer · Junior Software Eng
 
 <a href="https://www.youracclaim.com/badges/b82cca2e-c854-4940-adbc-7f75b6552e2d/public_url"><img src="https://raw.githubusercontent.com/ChegeBryan/ChegeBryan/master/azure_badge.png" width="32px"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChegeBryan&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+#### 📈 GitHub Stat's
 
-[![Chege Bryan's Github stats](https://github-readme-stats.vercel.app/api?username=ChegeBryan&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChegeBryan&layout=compact&heigt=&theme=algolia">
+</a>
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChegeBryan&count_private=true&show_icons=true&theme=algolia">
+</a>
 
 <!--
 **ChegeBryan/ChegeBryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
