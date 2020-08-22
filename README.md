@@ -18,6 +18,8 @@ Full Stack Engineer · Software Engineer · Web Developer · Junior Software Eng
 
 <a href="https://www.youracclaim.com/badges/b82cca2e-c854-4940-adbc-7f75b6552e2d/public_url"><img src="https://raw.githubusercontent.com/ChegeBryan/ChegeBryan/master/azure_badge.png" width="32px"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChegeBryan&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Chege Bryan's Github stats](https://github-readme-stats.vercel.app/api?username=ChegeBryan&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
