@@ -1,4 +1,4 @@
-## About
+## 😎 About
 
 <div align="center">
 My name is Chege Bryan and I'm a web developer, django is my favorite ⭐. I'm from Nairobi, Kenya.
@@ -16,7 +16,7 @@ You can find me on <a href="https://twitter.com/chegenbryan"><img height="16" wi
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChegeBryan&count_private=true&show_icons=true&theme=algolia">
 </a>
 
-## Technology & Tools
+## 🛠 Technology & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
