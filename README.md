@@ -1,7 +1,7 @@
 ## 😎 About
 
 <div align="center">
-My name is Chege Bryan and I'm a web developer, django is my favorite ⭐. I'm from Nairobi, Kenya.
+My name is Chege Bryan and I'm a web developer, django is my favorite ⭐. I also work with Laravel. I'm from Nairobi, Kenya.
 
 You can find me on <a href="https://twitter.com/chegenbryan"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>, or on <a href="https://www.linkedin.com/in/chegebrian/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>.
 
