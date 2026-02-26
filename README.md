@@ -21,7 +21,7 @@ You can find me on <a href="https://twitter.com/chegenbryan"><img height="16" wi
 ## 🛠 Technology & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Editor-Cursor-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&labelColor=181818&logoColor=02569B&color=050F2C)
