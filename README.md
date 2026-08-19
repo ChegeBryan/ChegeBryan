@@ -10,7 +10,7 @@ You can find me on <a href="https://twitter.com/chegenbryan"><img height="16" wi
 
 [![wakatime](https://wakatime.com/badge/user/e7083d89-84d4-4c69-96bc-e43e98d38d80.svg)](https://wakatime.com/@e7083d89-84d4-4c69-96bc-e43e98d38d80)
 
-![Stats](./profile/stats.svg)
+[![ChegeBryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=ChegeBryan)](https://github.com/stats-organization/github-stats-extended)
 
 ## 🛠 Technology & Tools
 
